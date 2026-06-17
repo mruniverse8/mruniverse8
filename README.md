@@ -1,4 +1,4 @@
-### Hi, I'm mruniverse 👋
+### Hi, I'm Ronaldo Franco J.(mruniverse) 👋
 
 ML / RL researcher. Applied Mathematics & Informatics @ HSE Moscow.
 I work on reinforcement learning and generative methods for LLMs.
