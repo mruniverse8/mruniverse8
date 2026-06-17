@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm mruniverse 👋
 
-<!--
-**mruniverse8/mruniverse8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML / RL researcher. Applied Mathematics & Informatics @ HSE Moscow.
+I work on reinforcement learning and generative methods for LLMs.
 
-Here are some ideas to get you started:
+**Research interests:** RL · LLM post-training · GFlowNets & amortized inference · code retrieval / SWE agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent work**
+- 🧪 **GFlowNet fine-tuning of LLMs** — post-training BioT5+ as a GFlowNet to generate diverse drug-like molecules from text. → [Thesis](https://github.com/mruniverse8/Thesis)
+- 🔎 **Code & NL retrieval for SWE-bench** (Huawei Research) — embedding retrieval (62% MRR), Llama 3.1 issue resolution (77% oracle retrieval), QLoRA/Unsloth fine-tuning.
+
+**Background:** ICPC World Finalist (2022) · IOI · Bolivian OI medalist · problem-setter & coach.
+
+**Stack:** Python · PyTorch · C++ · Hugging Face · vLLM · QLoRA/Unsloth · Docker · W&B
+
+📫 ronaldofj83@gmail.com
